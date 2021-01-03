@@ -1,0 +1,50 @@
+meals,breakfast,lunch,dinner,snack,leftovers
+2 eggs bacon,1,0,0,0,0
+3 lazy devils,1,0,0,0,0
+jalapeno cheddar omlete,1,0,0,0,0
+bacon denver omlete,1,0,0,0,0
+2 eggs spinach,1,0,0,0,0
+spinach ham and swiss scramble,1,0,0,0,0
+cottage cheese and peaches,1,0,0,0,0
+"yogurt, honey, and berries.",1,0,0,0,0
+oatmeal,1,0,0,0,0
+green smoothie,1,0,0,0,0
+blue berry banana smoothie,1,0,0,0,0
+chicken cobb salad,0,1,1,0,0
+chicken berry salad,0,1,1,0,0
+chicken mango fajitas,0,0,1,0,1
+cilantro lime chicken,0,0,1,0,1
+persian chicken,0,0,1,0,1
+chicken florentine,0,0,1,0,1
+swedish meatballs,0,0,1,0,1
+meatballs and spaghetti squash,0,0,1,0,1
+meatloaf and greenbeans,0,0,1,0,1
+cauliflower soup,0,0,1,0,1
+taco salad,0,0,1,0,0
+garden chowder,0,0,1,0,1
+beef barley,0,0,1,0,1
+sausage and spelt,0,0,1,0,1
+salmon and broccoli,0,0,1,0,0
+tilapia and asparagus,0,0,1,0,0
+stroganoff,0,0,1,0,1
+cabbage bowls,0,0,1,0,0
+morrocan lentil,0,0,1,0,1
+cabbage epsilon,0,0,1,0,1
+pork tenderloin and roasted winter vegetables,0,0,1,0,1
+burnt butter porkchops and sweet potato mash,0,0,1,0,0
+blt wraps,0,1,1,0,0
+western burger salad,0,0,1,0,0
+chili,0,0,1,0,1
+minestrone,0,0,1,0,1
+ham wraps,0,1,0,0,0
+tuna wraps,0,1,0,0,0
+waldorf salad,0,1,0,0,0
+broccoli salad,0,1,0,0,0
+potstickers,0,1,0,0,0
+veggies and ranch,0,0,0,1,0
+"apple, goat cheese, pecans",0,0,0,1,0
+orange,0,0,0,1,0
+cashews,0,0,0,1,0
+ham and cheese,0,0,0,1,0
+berries,0,0,0,1,0
+grapes,0,0,0,1,0
